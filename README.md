@@ -3,7 +3,7 @@
 Professional Portfolio website for CMPA 3301-D02 Final Project.
 
 ## Live Website
-[View Live Portfolio](https://landonforney.github.io/CMPA3301_LandonForney_Final-Project-Portfolio/)
+[View Live Portfolio](https://landotakman1.github.io/CMPA3301_LandonForney_Final-Project-Portfolio/)
 
 ## Project Documentation
 - [Project Scope Statement](docs/scope.md)
